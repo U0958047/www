@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+ <heading>文創書房</heading>
+ <book>
+ <title>程式設計</title>
+ <author>張陳基</author>
+ <publisher>聯合文創</publisher>
+ <edition>第三版</edition>
+ <price>300</price>
+ </book>
+ <book>
+ <title>電子商務</title>
+ <author>吳懿茜</author>
+ <publisher>聯合文創</publisher>
+ <edition>第一版</edition>
+ <price>600</price>
+</book>
+</books>
